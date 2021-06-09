@@ -1,0 +1,1 @@
+where all the basic lines of scripting go in
