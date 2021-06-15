@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($behlnort#$WATER+$behlnort#$STIR))
+echo $(( $behlnort x $WATER + $behlnort x $STIR))
